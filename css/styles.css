@@ -1,0 +1,247 @@
+.main {
+   float:left;
+    width: 100%;
+    height: 630px;
+    position: relative;
+    top: 310px;
+    margin-top: -290px;
+  
+    font-family: 'Lato', sans-serif;
+    font-size: 28px;
+    text-align: center;
+  padding: 5px 0px;
+  border-style: solid;
+  background-color: white;
+border-top-color: #ECBB5C;
+border-bottom-color: #ECBB5C;
+border-left-color: #fff;
+border-right-color: #fff;
+border-radius: 5px;
+border-width: 6px;
+border-left-width: 0px;
+border-right-width: 0px;
+}
+.support {
+   float:left;
+    width: 100%;
+    position: relative;
+    top: 310px;
+    margin-top: -290px;
+  
+    font-family: 'Lato', sans-serif;
+
+  padding: 5px 0px;
+  border-style: solid;
+  background-color: white;
+border-top-color: #ECBB5C;
+border-bottom-color: #ECBB5C;
+border-left-color: #fff;
+border-right-color: #fff;
+border-radius: 5px;
+border-width: 6px;
+border-left-width: 0px;
+border-right-width: 0px;
+}
+.support h1 {
+   font-size: 30px;
+   font-weight: bold;
+}
+.user_guide {
+   float:left;
+    width: 100%;
+   position: relative;
+    top: 310px;
+    margin-top: -290px;
+   font-family: 'Lato', sans-serif;
+
+  padding: 5px 0px;
+  border-style: solid;
+  background-color: white;
+border-top-color: #ECBB5C;
+border-bottom-color: #ECBB5C;
+border-left-color: #fff;
+border-right-color: #fff;
+border-radius: 5px;
+border-width: 6px;
+border-left-width: 0px;
+border-right-width: 0px;
+}
+.user_guide h1 {
+   font-size: 30px;
+   font-weight: bold;
+}
+.user_guide h2 {
+   font-size: 26px;
+}
+.user_guide p {
+   font-size: 16px;
+}
+status_name {
+   font-size: 1.05em;
+   color: #ECBB5C;
+}
+.user_guide_data {
+   float:left;
+   position: relative;
+   width: 50%;
+   left: 25%;
+   right: 25%;
+}
+.legal {
+   float:left;
+    width: 100%;
+    position: relative;
+    top: 310px;
+    margin-top: -290px;
+  
+    font-family: 'Lato', sans-serif;
+
+  padding: 5px 0px;
+  border-style: solid;
+  background-color: white;
+border-top-color: #ECBB5C;
+border-bottom-color: #ECBB5C;
+border-left-color: #fff;
+border-right-color: #fff;
+border-radius: 5px;
+border-width: 6px;
+border-left-width: 0px;
+border-right-width: 0px;
+}
+.legal_home {
+   float:left;
+    width: 100%;
+    height: 630px;
+    position: relative;
+    top: 310px;
+    margin-top: -290px;
+  
+    font-family: 'Lato', sans-serif;
+
+  padding: 5px 0px;
+  border-style: solid;
+  background-color: white;
+border-top-color: #ECBB5C;
+border-bottom-color: #ECBB5C;
+border-left-color: #fff;
+border-right-color: #fff;
+border-radius: 5px;
+border-width: 6px;
+border-left-width: 0px;
+border-right-width: 0px;
+}
+#gamesList {
+  width: 900px;
+    text-align: center;
+}
+#gameLogo {
+  border-radius: 40px; 
+  padding: 20px; 
+  height: 150px;
+  width: 150px;
+}
+#gameLogoUnreleased {
+  opacity: 0.2;
+  border-radius: 40px; 
+  padding: 20px; 
+  height: 150px;
+  width: 150px;
+}
+#gamesList a {
+  font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ECBB5C;
+  text-align:center;
+    text-decoration: none;
+}
+#gamesList a:after {
+  color:#aaa;
+  content: "";
+}
+#gamesList a:last-child:after {
+  content:"";
+}
+
+#gamesList a:hover {
+    color: #000;
+}
+#gamesList a:link {
+    color: #ECBB5C;
+  text-decoration: none;
+}
+#gamesList a:visited {
+    color: #000;
+}
+#gamesList a:hover {
+    color: #000;
+}
+#gamesList a:active {
+    color: #F00;
+}
+.header {
+  position: relative; 
+  left: 0%;
+  top: 0%;
+  width: 100%;
+}
+.copyright {
+    text-align: center;
+   font-family: 'Lato', sans-serif;
+   font-size: 16px;
+    color: #FFF;
+   font-weight: bold;
+}
+.footer {
+   float:left;
+   position: relative;
+  height: 100px;
+  left: 0%;
+  bottom: 0%;
+  width: 100%;
+  margin-top: 305px;
+  
+}
+.footer_links {
+	width: 100%;
+    height: 40%;
+    position: relative;
+	left: 0%;
+	right: 0%;
+    top: 30%;
+	bottom: 20%;
+    text-align: center;
+}
+nav a {
+	font-family: 'Lato', sans-serif;
+    font-size: 20px;
+  	color: #000;
+ 	text-align:center;
+    font-weight: bold;
+  	text-decoration: none;
+}
+nav a:after {
+  color:#aaa;
+  content: "";
+  margin-right: 20px;
+  margin-left: 20px;
+}
+nav a:last-child:after {
+  content:"";
+}
+
+nav a:link {
+    color: #ECBB5C;
+	text-decoration: none;
+}
+nav a:visited {
+    color: #ECBB5C;
+}
+nav a:hover {
+    color: #FFF;
+  text-decoration: underline;
+text-underline-position: under;
+}
+nav a:active {
+    color: #FFF;
+}
